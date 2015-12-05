@@ -1,17 +1,10 @@
 body {
   background-color: gray;
-  text-align: center;
-};
-
-li:hover{
-  color: yellow;
-};
-
-{
-  text-align: center;
 }
 
-body{
-  background: #F56EEB;
-};
+li:hover {
+  color: yellow;
+}
+
+
 
