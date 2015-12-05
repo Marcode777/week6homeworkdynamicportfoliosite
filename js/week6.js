@@ -1,4 +1,3 @@
    $(document).ready(function() {
-        $("li").slideUp(1000).delay(1000).slideDown(1000);
+        $("div").slideUp(1000).delay(1000).slideDown(1000);
       });
-    
