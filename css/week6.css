@@ -1,12 +1,12 @@
 body {
-  background-color: gray;
+  background-color: #99ccff !important;
 }
 
 li:hover {
   color: yellow;
 }
 
-div:hover {
+div:linkedin: hover {
   color: red;
 }
 
