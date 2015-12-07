@@ -1,9 +1,11 @@
 body {
-  background-color: #99ccff !important;
+  color: blue;
+  background-color: #e6e6e6 !important;
 }
 
+
 li:hover {
-  color: yellow;
+  color: #0000ff ;
 }
 
 div:linkedin: hover {
